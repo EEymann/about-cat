@@ -3,6 +3,11 @@ h1 {
   text-align: center;
 }
 
+img.intro {
+  border-radius: 50%;
+
+}
+
 .center {
   display: block;
   margin-left: auto;
