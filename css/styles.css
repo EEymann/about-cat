@@ -36,3 +36,19 @@ li {
   font-size: 20px;
   line-height: 30px;
 }
+
+.aqua-background {
+  background-color: aqua;
+}
+
+.pink-background {
+  background-color: pink;
+}
+
+.violet-background {
+  background-color: violet;
+}
+
+.white-background {
+  background color: none;
+}
